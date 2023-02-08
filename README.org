@@ -1,0 +1,5 @@
+#+title: Minesweeper README
+#+AUTHOR: Chris Dresher
+
+* Minesweeper App
+I am going to start with a command line version of Minesweeper which will eventually turn into a web app using ~Ring~ and ~Hiccup~
